@@ -43,4 +43,4 @@ make -j4
 
 
 screenshot
-![scrrenshot](https://github.com/chandong83/raspi3_gps_parsing/tree/master/img/scrrenshot.png)
+![scrrensh](./img/screenshot.png)
