@@ -42,5 +42,6 @@ make -j4
 ./gps_test
 
 
-screenshot
-![scrrensh](./img/screenshot.png)
+screenshot <br>
+----------
+![ex_screenshot](./img/screenshot.png)
